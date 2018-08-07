@@ -10,3 +10,5 @@ UINotificationFeedbackGenerator`.
 
 ## AVSpeechSynthesizer
 Enable your app to speak with `AVSpeechUtterance` and `AVSpeechSynthesizer`.
+
+![Impact Speech Animation Demo Screenshot](https://github.com/ixeau/ImpactSpeechAnimationDemo/blob/master/screenshot.png)
